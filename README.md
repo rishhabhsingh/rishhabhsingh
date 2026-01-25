@@ -1,4 +1,4 @@
-👋 Welcome to my profile! I'm Rishabh Singh, an aspiring MERN Developer!!! <br>
+### 👋 Welcome to my profile! I'm Rishabh Singh, an aspiring MERN Developer! <br>
 I'm passionate about building modern web applications and continuously learning new technologies in the MERN stack.
 
 🛠️ My Skills:-
@@ -7,5 +7,5 @@ I'm passionate about building modern web applications and continuously learning 
 - **Database:** <!-- Your skills here -->
 - **Other:** <!-- Your skills here -->
 
-I love exploring new technologies and turning ideas into real-world projects! 💡
+I love exploring new technologies and turning ideas into real-world projects! 💡 <br>
 Feel free to connect via email at "singhrishabh23@gmail.com" Let's collaborate and create something amazing! 😊🚀
