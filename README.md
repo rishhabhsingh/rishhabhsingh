@@ -57,6 +57,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" title="Redis"/>
 </p>
 
+<!-- Data Analytics & Visualization -->
+<h3>📊 Data Analytics & Visualization</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/960px-Pandas_mark.svg.png?_=20200210000431" width="45" title="Pandas"/>
+  <img src="https://www.svgrepo.com/show/373938/numpy.svg" width="50" title="Numpy"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="45" title="Matplotlib"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="45" title="Power BI"/>
+  <img src="https://img.icons8.com/?size=96&id=9Kvi1p1F0tUo&format=png" width="45" title="Tableau"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" width="45" title="Excel"/>
+  <img src="https://img.icons8.com/?size=96&id=30461&format=png" width="45" title="Google Sheet"/>
+  <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_logo_icon_146389.png" width="45" title="Postgre SQL"/>
+</p>
+
 <!-- DevOps & Cloud -->
 <h3>☁️ DevOps & Cloud</h3>
 <p align="left">
